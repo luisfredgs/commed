@@ -7,3 +7,5 @@ Author: Tianpei Xie
 
 
 ## The COM-MED: model formulation
+
+Paper: http://tbayes.eecs.umich.edu/_media/tianpei/tianpei_icassp15.pdf
